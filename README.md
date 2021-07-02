@@ -6,3 +6,6 @@ https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
 
 
 ![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
+
+
+- Poner tu api key de firebase en ``src/app/services/auth.services.ts`` en la línea 12.
